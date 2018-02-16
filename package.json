@@ -1,5 +1,5 @@
 {
-  "name": "UsernamesCombinator",
+  "name": "usernamescombinator",
   "version": "1.0.0",
   "description": "Combines two arrays to create differents usernames",
   "main": "index.js",
